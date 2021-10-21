@@ -69,7 +69,7 @@ Create a small app that reads this data from kafka and prints it to stdout
 -	find the code in two python solution files for producer.py and consumer.py in base dir.  
 Find a suitable data structure for counting and implement a simple counting mechanism, output the results to stdout
 -	Find the solution in  file named Counting.py in base dir 
-
+The python files can be executed in any pyton editor (pycharm , jupyter notebook etc )
 
 How can you scale it to improve throughput?
 The main way we scale data consumption from a Kafka topic is by adding more consumers to the consumer group. It is a common operation for Kafka consumers to do high-latency operations such as writing to databases or a time-consuming computation.
