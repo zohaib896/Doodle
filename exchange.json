@@ -1,0 +1,8647 @@
+[
+   {
+      "@time": "2019-11-01",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1139"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.43"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.514"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4712"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.86008"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "328.33"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2535"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7547"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6993"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1013"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.1638"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.46"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.0786"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3761"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6151"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4437"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4682"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.844"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7298"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15640.93"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9272"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.816"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1300.09"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.3164"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.64"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7326"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.286"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5129"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.623"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.828"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-31",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1154"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.73"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.509"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4708"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.86133"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "328.7"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2581"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.756"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7498"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1007"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.252"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4579"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.3639"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3717"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6137"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4514"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4673"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.854"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7401"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15701.5"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9342"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.1125"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1302.87"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.3265"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6607"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7359"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.704"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5174"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.668"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.912"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-30",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1106"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.99"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.512"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4709"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.862"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "329.72"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2629"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7577"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.801"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1032"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.2488"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4606"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.9556"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3615"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6199"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4611"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4534"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8371"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.708"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15600.04"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.92"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.7705"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1297.21"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.2538"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6423"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7504"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.591"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5141"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.58"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.5609"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-29",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1095"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.88"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.543"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4706"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.86328"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "328.78"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2693"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7559"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7923"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1041"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.2748"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4568"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.9154"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3596"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6186"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.43"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4486"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8392"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6994"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15590.95"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9162"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.615"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1295.86"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.1812"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.641"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7481"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.623"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5121"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.524"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.2241"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-28",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1087"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.69"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.48"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4707"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.86328"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "328.16"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2715"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7559"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7503"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1047"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.2105"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4543"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.5328"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3479"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6245"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4158"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4487"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8366"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6923"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15536.21"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9187"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.4355"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1297.1"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.1244"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.641"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7482"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.731"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5104"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.488"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.1202"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-25",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1107"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.59"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.568"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4704"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.86598"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "328.87"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2777"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7553"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7445"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1019"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.1865"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.453"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.824"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4012"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.627"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4732"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4511"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8524"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7048"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15588.67"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9242"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.7515"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1304.87"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.202"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6494"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7456"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.951"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.514"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.504"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.2387"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-24",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1128"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.86"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.598"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4705"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.86288"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "329.24"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.277"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.752"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6963"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1019"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.1368"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.452"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.1856"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4251"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6273"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4908"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4545"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8704"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7235"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15619.26"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.922"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.022"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1305.33"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.2595"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6571"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.74"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.088"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5162"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.707"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.2753"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-23",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1123"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.63"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.638"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4707"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.86408"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "329.11"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2786"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7603"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7385"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1004"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.9"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.1775"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4418"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.0887"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4318"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6252"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5459"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4558"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8684"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7235"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15604.46"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9329"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.8245"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1303.45"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.3268"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6578"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7361"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.765"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5161"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.73"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.3217"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-22",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.113"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.87"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.57"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4708"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.86065"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "329.92"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2778"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7609"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7303"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1004"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "139.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.1833"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4405"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.9699"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4897"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6237"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.59"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4581"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8795"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7295"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15626.52"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9411"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.9245"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1305.83"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.2721"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6618"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7358"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.969"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5164"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.735"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.3337"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-21",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1173"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "121.29"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.63"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4708"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8593"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "329.98"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2788"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7584"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7311"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1002"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "139.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.1638"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4378"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.1373"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.5047"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.624"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.6059"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4643"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.9025"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7635"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15713.09"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9484"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.169"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1309.04"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.4"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6709"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7432"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.046"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5203"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.804"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.4831"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-18",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1144"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.97"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.659"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4702"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.86435"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "330.62"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2843"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7565"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7742"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0996"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "139.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.2198"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4418"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.3066"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4447"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6278"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.6363"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4639"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8941"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7396"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15773.15"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9462"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.2735"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1314.33"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.3875"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6654"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7488"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.07"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5214"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.761"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.4566"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-17",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1113"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "120.81"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.673"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4707"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8684"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "331.59"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2855"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7553"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8105"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0991"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.5"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.1925"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4425"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.1371"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.553"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6294"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.623"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4644"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8657"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7171"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15732.67"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9346"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.0785"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1310.18"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.3437"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6443"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7564"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.021"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5171"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.689"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.5285"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-16",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1025"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "119.9"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.758"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4712"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8656"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "333.02"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2955"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7561"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8358"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0997"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.1465"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4338"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.8212"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.5076"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6394"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.6024"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4563"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.827"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.65"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15662.11"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9044"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.768"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1310.51"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.2053"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.625"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7653"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.845"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5138"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.533"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.5129"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-15",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1007"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "119.23"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.82"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4699"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.87058"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "332.38"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2956"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7538"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8225"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0977"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0653"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4353"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.9456"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4678"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6293"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5467"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4562"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.7943"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6351"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15591.42"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8784"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.696"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1305.51"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.1647"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6125"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7551"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.829"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5088"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.434"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.359"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-14",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1031"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "119.4"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.823"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4689"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.87983"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "331.44"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.2931"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7546"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8523"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0983"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0463"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4315"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.8543"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.5424"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6325"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5395"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4576"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.7988"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6529"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15586.8"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8703"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.5245"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1307.06"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.2983"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6198"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7529"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.899"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5103"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.529"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.3283"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-11",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1043"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "119.75"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.807"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4688"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.87518"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "331.71"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3057"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7573"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8448"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.1025"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.7"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0375"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.428"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.8034"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4713"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6246"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5291"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4679"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8417"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6614"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15601.55"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8673"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.4875"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1308.61"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.3965"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.622"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7419"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.927"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5177"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.642"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.3978"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-10",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.103"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.52"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.893"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4684"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.90155"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "333.51"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3183"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7523"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8415"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0948"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.5"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0535"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.428"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.2901"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4936"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6307"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5186"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4678"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8567"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6522"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15609.1"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8694"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.3555"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1315.87"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.5223"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6205"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7422"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.97"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5187"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.537"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.6898"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-09",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0981"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.91"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.823"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4691"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8985"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "334.04"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3236"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7486"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.9173"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0927"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0528"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.427"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.1918"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4053"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6282"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4783"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4607"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8265"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6143"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15560.08"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8465"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.034"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1314.77"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.452"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6087"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7381"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.816"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5153"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.311"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.6248"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-08",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0986"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.43"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.805"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4689"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.89795"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "334.57"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3326"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7486"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8703"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0898"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "136.5"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.045"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4243"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.6225"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.412"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6286"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5073"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4623"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8474"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6178"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15550.68"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8566"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.144"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1316.41"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.5316"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.607"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7373"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.955"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5168"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.403"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.7732"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-07",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0993"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.44"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.781"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4679"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.89155"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "333.64"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3317"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7475"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.891"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0924"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "136.5"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0388"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4235"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.3155"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.31"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6316"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4709"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4633"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8582"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6237"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15579.88"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8405"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.0435"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1315.2"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.5"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6094"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7452"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.024"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5175"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.476"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.6332"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-04",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0979"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.23"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.741"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4666"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.89045"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "332.76"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3245"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.748"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8105"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0913"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "135.7"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9915"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4215"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.142"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2505"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6247"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4726"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4612"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8497"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6099"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15531.39"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8254"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "77.8415"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1312.32"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.5087"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5953"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.735"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.811"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5139"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.437"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.6446"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-03",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0951"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.17"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.739"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4656"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8879"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "333.02"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.34"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.747"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.833"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0957"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "135.7"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0165"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.418"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.2751"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2448"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6294"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5094"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4606"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8282"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.5882"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15520.3"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8282"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "77.7155"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1317.84"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.6283"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5857"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7421"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.738"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5128"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.461"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.6077"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-02",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0925"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.47"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.739"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4665"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8897"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "334.05"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3698"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7491"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8118"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.094"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "135.5"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.993"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.415"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.2142"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2595"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6351"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5516"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4467"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8096"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.5666"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15516.78"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8121"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "77.8275"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1318.2"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.6365"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5825"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7512"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.806"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5137"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.458"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.6627"
+         }
+      ]
+   },
+   {
+      "@time": "2019-10-01",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0898"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.74"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4655"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.88955"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "334.79"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3774"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7511"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8043"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0906"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "135.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9463"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4111"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.0815"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.1979"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6274"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5384"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4466"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.7903"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.5449"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15505.67"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.7907"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "77.492"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1310.56"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.5587"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5712"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7528"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.61"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5108"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.43"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.67"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-30",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0889"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.59"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.816"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4662"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.88573"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "334.83"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3782"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7496"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6958"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0847"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "135.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.8953"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.411"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.7557"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.1491"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6126"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5288"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4426"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.7784"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.5368"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15456.94"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.7877"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "77.1615"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1304.83"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.4522"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5592"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7375"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.553"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.506"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.315"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.5576"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-27",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0935"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.21"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.842"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4661"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.88778"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "335.54"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3865"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7515"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.701"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.086"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "134.9"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9155"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4083"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.3733"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.1895"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6187"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5492"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4493"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.7947"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.5727"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15489.43"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8096"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "77.0685"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1310.45"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.464"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5796"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7388"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.736"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.51"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.51"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.4831"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-26",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0938"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.73"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.851"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4643"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.88505"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "334.93"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3871"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7481"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6598"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0864"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "135.6"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9235"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4063"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.219"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.1899"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6162"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5113"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4482"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.7976"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.5739"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15496.96"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8454"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "77.56"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1313.91"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.3975"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5861"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7315"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.064"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5104"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.509"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.3723"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-25",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0982"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.867"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4648"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.88668"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "334.95"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3915"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7438"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6825"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0841"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "136"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.931"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.406"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.6879"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2598"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6236"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5987"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.458"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8239"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6059"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15539.53"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8482"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.0215"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1318.39"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.5068"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6015"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7435"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.475"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5133"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.577"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.5085"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-24",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1003"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.45"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.872"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4661"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.88153"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "335.17"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3813"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7484"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6763"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0878"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.2"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9225"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.404"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.0259"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2553"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6189"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5759"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4586"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8199"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6265"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15527.98"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8555"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.0635"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1313.66"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.3897"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6009"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7428"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.358"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5145"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.63"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.3599"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-23",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0985"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.07"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.89"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4664"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.88343"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "334.62"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.382"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7498"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7143"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0891"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.2"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9723"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4068"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.2637"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2829"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6224"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5665"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4586"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8279"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6116"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15472.37"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8617"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "77.9405"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1315.27"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.3353"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5976"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7514"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.272"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.514"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.499"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.3465"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-20",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.103"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "119.11"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.913"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4668"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8823"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "332.89"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3575"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7456"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7113"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0942"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9423"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4008"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.3933"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2894"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6243"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5956"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4636"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8207"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6413"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15502.67"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8837"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.2925"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1311.24"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.4558"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5995"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7579"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.375"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5176"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.636"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.3991"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-19",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1067"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "119.46"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.892"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4672"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.88735"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "332.77"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3386"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7448"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7223"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.097"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.8905"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.401"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.6938"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3023"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6291"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5738"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4686"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8518"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6649"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15560.2"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8889"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.9335"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1321.64"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.4426"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6385"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7536"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.803"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5243"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.782"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.2351"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-18",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1053"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "119.54"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.892"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4673"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8872"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "332.89"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.337"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7366"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7298"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0999"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "136.8"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.8905"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.398"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.9405"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2663"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6149"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5045"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4645"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8349"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6533"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15541.22"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9075"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.707"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1316.22"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.3629"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6246"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7428"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.643"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5182"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.75"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.1576"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-17",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1026"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "119.23"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.916"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4671"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.88813"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "333.96"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3416"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.734"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.699"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0966"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "136.6"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.8715"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.397"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.7241"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3065"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6122"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5207"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.462"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8249"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6266"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15536.74"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9227"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.147"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1311.65"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.4919"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6149"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7426"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.712"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5175"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.701"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.278"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-16",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1031"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.96"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.882"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.467"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8851"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "331.92"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3241"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7348"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6703"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0932"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "136.4"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9043"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3945"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "70.6403"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3041"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6054"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5138"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4619"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.7957"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6266"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15487.52"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9023"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.9825"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1306.13"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.4298"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6088"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7324"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.692"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5158"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.672"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.1498"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-13",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1096"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "119.83"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.843"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4678"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.89093"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "331.53"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3248"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7352"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6485"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.094"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9213"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3945"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.2243"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2892"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6126"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4964"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4663"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8589"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6832"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15495.56"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9133"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.7415"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1306"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.507"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6209"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7354"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.644"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5226"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.776"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.0983"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-12",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0963"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.14"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.824"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4622"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8892"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "330.93"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3304"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7348"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6315"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0892"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.8543"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3928"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.22"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2075"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.5943"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4402"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4468"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.7702"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.5826"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15310.38"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.887"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "77.998"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1296.86"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.2945"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5664"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7032"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "56.912"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5091"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.334"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "15.9936"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-11",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1003"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.51"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.867"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4607"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.89133"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "332.4"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3335"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7348"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6563"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0934"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.7"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.8745"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3945"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "71.8661"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3335"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6021"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4721"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4468"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8309"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6261"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15470.22"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.899"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.872"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1312.34"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.4565"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.5987"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7147"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.354"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.518"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.653"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.1384"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-10",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.104"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.52"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.869"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4608"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.893"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "331.61"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3339"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7334"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7445"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0943"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.7"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9125"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3938"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "72.2447"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3736"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6103"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5234"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4536"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8445"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6559"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15505.68"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9085"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.3815"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1315.87"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.5665"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6053"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7194"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.425"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5227"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.799"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.1993"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-09",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1033"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.01"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.855"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4598"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.89275"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "329.93"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3335"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7297"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6598"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0923"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "139.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.8663"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3975"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "72.1849"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3176"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6066"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4764"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4515"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.861"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6503"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15498.1"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8906"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.0815"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1315.99"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.5254"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6015"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7129"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.195"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5223"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.8"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.1931"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-06",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1027"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.01"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.836"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4614"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.89635"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "330.11"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3394"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7325"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.635"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0928"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "139.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.923"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4038"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "72.5679"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2875"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6135"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5145"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4583"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8442"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6446"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15532.63"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.878"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.0805"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1314.72"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.655"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6098"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7208"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.208"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5229"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.819"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.2808"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-05",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1058"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.97"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.853"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4588"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.8958"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "329.47"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3399"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.73"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6825"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0863"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "139.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9332"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4033"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "72.9651"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2835"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.621"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5036"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4602"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8996"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6686"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15605.38"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8837"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.4125"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1323.9"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.7072"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6327"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7305"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.412"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5295"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.777"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.3765"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-04",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1018"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.03"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.834"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4584"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.90255"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "328.94"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3395"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.729"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.753"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0848"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "139.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9838"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4045"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.1531"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2482"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6225"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5603"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4679"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8808"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6389"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15593.22"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8838"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.389"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1327.96"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.843"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6273"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7343"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.205"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.527"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.732"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.3729"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-03",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0937"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "116.05"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.885"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4566"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.90885"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "330.68"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3663"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7292"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8128"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0829"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "139.9"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.019"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4055"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.2576"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2937"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6247"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5684"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4627"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8513"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.5788"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15558"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8793"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.197"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1328.8"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.9477"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6162"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7385"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.19"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5237"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.548"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.5525"
+         }
+      ]
+   },
+   {
+      "@time": "2019-09-02",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.0968"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "116.66"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.919"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4563"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.9082"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "331.34"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3691"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7239"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.747"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0875"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.5"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9788"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4006"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.2222"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3762"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6338"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5498"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4632"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8657"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6021"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15567.98"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8793"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.892"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1329.49"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "22.0545"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6269"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7396"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.2"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5253"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.6"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.6827"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-30",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1036"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.28"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.914"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4562"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.90565"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "331.07"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3812"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7284"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.8395"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0909"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.5"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.038"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4023"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.415"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4418"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6398"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5879"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4658"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8908"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6549"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15654.57"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8899"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.8365"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1333.21"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "22.1567"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6412"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.749"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.462"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5312"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.754"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.8299"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-29",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1072"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.68"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.853"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.457"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.90531"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "330.26"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3809"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7271"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.779"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.088"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0365"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4035"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.675"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4594"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6402"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5908"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4699"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.9081"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6876"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15718.92"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8997"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.3415"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1340.01"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "22.2046"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6696"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7457"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.793"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5354"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.886"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.895"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-28",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1083"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.18"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.844"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4578"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.90823"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "330"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3874"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7273"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7545"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0872"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.9"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.011"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4025"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "74.04"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.425"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6431"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5901"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4754"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.9357"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6959"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15792.82"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9099"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.5905"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1345.47"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "22.1393"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6712"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7458"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.998"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5393"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.931"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "17.0319"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-27",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1104"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.43"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.814"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4578"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.90435"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "328.85"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3696"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.732"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.705"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0884"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.7"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.992"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.4003"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.8447"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.47"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6412"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.6144"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4689"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.9519"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.711"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15821.87"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9071"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.4225"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1346.43"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "22.1713"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.667"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7415"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.095"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5411"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.935"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.9845"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-26",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1116"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.67"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.792"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4564"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.90808"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "329.23"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3622"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7277"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7515"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0885"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9873"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3933"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.2819"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.4642"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.643"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5701"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4788"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.9429"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7195"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15834.46"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9083"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "80.063"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1348.82"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "22.115"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6748"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7431"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.327"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5432"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.004"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.9646"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-23",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1065"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.79"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.769"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4559"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.90453"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "328.58"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.355"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7212"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7165"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0893"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9593"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.394"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "72.9469"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3815"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6396"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.5224"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4741"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8439"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6776"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15726.13"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8924"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.304"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1341.19"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "22.0041"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6362"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.736"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.008"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.536"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "33.997"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.8439"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-22",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1083"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.13"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.784"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4558"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.9115"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "327.79"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3643"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7223"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7188"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0905"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.939"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3928"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "72.756"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3875"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.638"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4717"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4722"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8523"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6889"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15777.1"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9065"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.589"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1340.99"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.8622"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6421"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.738"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.985"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5361"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.13"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.8177"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-21",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1104"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.24"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.794"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4564"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.91545"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "327.31"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3529"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.728"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6983"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0875"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9263"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.383"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.1897"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3462"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6337"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4621"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4761"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8438"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7072"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15808.76"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.916"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.4655"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1335.79"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.8446"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6387"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7308"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.941"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5354"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.173"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.8573"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-20",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1076"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.79"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.796"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.456"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.91623"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "327.23"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3552"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7305"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7653"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.086"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9638"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3838"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.836"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3328"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6347"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4959"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4762"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.818"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6868"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15794.38"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.902"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.441"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1337.78"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.9445"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6263"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7286"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "57.964"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5351"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.086"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "17.0117"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-19",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1103"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.34"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.78"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4582"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.91583"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "325.76"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3702"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7318"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7268"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0884"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.9"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9658"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.387"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "74.2984"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2181"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6376"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4355"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4729"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8283"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7095"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15805.12"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9353"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.28"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1343.14"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.8458"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6377"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7296"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.171"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5376"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.247"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "17.0524"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-16",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1076"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.77"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.734"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.459"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.91033"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "324.78"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3381"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7293"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.712"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0854"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.7"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9653"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.389"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.3855"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.1543"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.632"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4075"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.473"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.7978"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.6863"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15753.39"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9309"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "78.804"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1338.6"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.6321"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6281"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7208"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.012"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5356"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.208"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.8081"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-15",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.115"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.37"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.876"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.459"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.91863"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "326.2"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3878"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7231"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7305"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0863"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.9"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0145"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3858"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.7771"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2316"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6442"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4868"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4841"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8463"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.744"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15911.05"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9237"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.5205"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1353.11"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.8595"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6758"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7311"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.759"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5483"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.403"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "17.044"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-14",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1188"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.48"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.884"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4608"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.92673"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "325.15"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.372"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7212"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7313"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0862"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "138.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0035"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3884"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.3476"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2616"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6579"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4702"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4872"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8526"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7774"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15937.31"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9065"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.7425"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1358.5"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.8129"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6861"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.74"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.581"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.553"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.509"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "17.127"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-13",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1222"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.01"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.829"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4633"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.9283"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "323.98"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3372"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7249"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7088"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0853"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "139.1"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0078"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3928"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.6134"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.3141"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6589"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4773"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4889"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.9303"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.8057"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "16067.1"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9145"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "80.1865"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1373.2"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "22.0302"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.7104"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7417"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.743"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5576"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.648"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "17.2289"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-12",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1194"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "117.69"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.831"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4633"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.92615"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "324.65"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3275"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.725"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7315"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0876"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.5"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.0003"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3908"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.4092"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.2161"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6589"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.466"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4807"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.9014"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7825"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15951"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8935"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.746"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1364.55"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.9971"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.7022"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7352"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.424"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.552"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.506"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "17.2164"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-09",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1198"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.51"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.828"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4631"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.9282"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "324.78"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3191"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7264"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.6972"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0897"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9588"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3915"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.2133"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.1452"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6452"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.3994"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4796"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.9039"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.779"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15889.96"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8951"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.2935"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1356.25"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.7803"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6858"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7254"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.207"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5481"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.4"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "17.006"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-08",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1193"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.64"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.789"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4631"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.92115"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "325.08"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3227"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.73"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.753"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0923"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "137.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "10.018"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3814"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.1407"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.1367"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6483"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4283"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4874"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8873"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7774"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15903.01"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8948"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.175"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1353.16"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.925"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6843"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7335"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.347"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5483"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.413"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.9516"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-07",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1202"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.48"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.719"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4631"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.92353"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "325.38"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3174"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7308"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7673"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0921"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "136.5"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.996"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3823"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "73.0455"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.1614"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6628"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4438"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.492"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8957"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7834"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15941.29"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.8996"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.402"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1361.74"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.9583"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6925"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7411"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.562"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.549"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.485"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.7546"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-06",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1187"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "119.1"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.727"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4644"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.9183"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "325.35"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3119"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.73"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7267"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0919"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "136.5"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.9545"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.384"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "72.7977"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.1906"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.6467"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.4099"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4785"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8521"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.767"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "15958.26"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9088"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.215"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1357.32"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.8702"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.684"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7073"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.269"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5441"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.394"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.5635"
+         }
+      ]
+   },
+   {
+      "@time": "2019-08-05",
+      "Cube": [
+         {
+            "@currency": "USD",
+            "@rate": "1.1182"
+         },
+         {
+            "@currency": "JPY",
+            "@rate": "118.61"
+         },
+         {
+            "@currency": "BGN",
+            "@rate": "1.9558"
+         },
+         {
+            "@currency": "CZK",
+            "@rate": "25.776"
+         },
+         {
+            "@currency": "DKK",
+            "@rate": "7.4658"
+         },
+         {
+            "@currency": "GBP",
+            "@rate": "0.9188"
+         },
+         {
+            "@currency": "HUF",
+            "@rate": "326.99"
+         },
+         {
+            "@currency": "PLN",
+            "@rate": "4.3142"
+         },
+         {
+            "@currency": "RON",
+            "@rate": "4.7325"
+         },
+         {
+            "@currency": "SEK",
+            "@rate": "10.7603"
+         },
+         {
+            "@currency": "CHF",
+            "@rate": "1.0893"
+         },
+         {
+            "@currency": "ISK",
+            "@rate": "136.3"
+         },
+         {
+            "@currency": "NOK",
+            "@rate": "9.972"
+         },
+         {
+            "@currency": "HRK",
+            "@rate": "7.3805"
+         },
+         {
+            "@currency": "RUB",
+            "@rate": "72.6588"
+         },
+         {
+            "@currency": "TRY",
+            "@rate": "6.199"
+         },
+         {
+            "@currency": "AUD",
+            "@rate": "1.652"
+         },
+         {
+            "@currency": "BRL",
+            "@rate": "4.3805"
+         },
+         {
+            "@currency": "CAD",
+            "@rate": "1.4775"
+         },
+         {
+            "@currency": "CNY",
+            "@rate": "7.8705"
+         },
+         {
+            "@currency": "HKD",
+            "@rate": "8.7638"
+         },
+         {
+            "@currency": "IDR",
+            "@rate": "16006.7"
+         },
+         {
+            "@currency": "ILS",
+            "@rate": "3.9012"
+         },
+         {
+            "@currency": "INR",
+            "@rate": "79.1529"
+         },
+         {
+            "@currency": "KRW",
+            "@rate": "1359.84"
+         },
+         {
+            "@currency": "MXN",
+            "@rate": "21.8221"
+         },
+         {
+            "@currency": "MYR",
+            "@rate": "4.6724"
+         },
+         {
+            "@currency": "NZD",
+            "@rate": "1.7138"
+         },
+         {
+            "@currency": "PHP",
+            "@rate": "58.191"
+         },
+         {
+            "@currency": "SGD",
+            "@rate": "1.5453"
+         },
+         {
+            "@currency": "THB",
+            "@rate": "34.435"
+         },
+         {
+            "@currency": "ZAR",
+            "@rate": "16.6794"
+         }
+      ]
+   }
+]
