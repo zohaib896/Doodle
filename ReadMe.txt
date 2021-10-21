@@ -1,5 +1,6 @@
-Thank you for inviting me to this challenge .  On the first glance every things look ambiguous, and so I decided to give my best , since  giveup is not an option and it will either be a learning or a success. That kept me going till the very end ….   
-With that Said, Let’s Get Started: 
+Thank you for inviting me to this challenge .  
+
+Let’s Get Started: 
 
 Installing  Kafka
 This was the hardest part because I could not find the right way to execute kafka on my machine .
