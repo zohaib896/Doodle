@@ -128,8 +128,7 @@ Advantages of Avro
 Avro is best for simple domains with mostly primitive types.	
 
 Remarks: 
-Over all the assignment was challenging, and the fun part was enjoying the complete journey and not just focusing on the end goals.  I believe that in order to achieve success the laser focus on small tiny steps or individual units of big process would be a more wiser approach than trying to accomplish the end goal as whole.
- 
+Over all the assignment was challenging, and the fun part was enjoying the complete journey through out !
 
 References : 
 https://kafka.apache.org/documentation/
